@@ -7,7 +7,6 @@
   "integration_type": "hub",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/nara1111/hyundai_bluelink_kr/issues",
-  "loggers": ["hyundai_bluelink_kr", "hyundai_kia_connect_api"],
-  "requirements": ["hyundai_kia_connect_api==3.19.1"],
+  "loggers": ["hyundai_bluelink_kr"],
   "version": "0.0.1"
 }
