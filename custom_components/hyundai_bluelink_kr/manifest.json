@@ -1,0 +1,13 @@
+{
+  "domain": "hyundai_bluelink_kr",
+  "name": "Hyundai Bluelink KR",
+  "codeowners": ["@nara1111"],
+  "config_flow": true,
+  "documentation": "https://github.com/nara1111/hyundai_bluelink_kr",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/nara1111/hyundai_bluelink_kr/issues",
+  "loggers": ["hyundai_bluelink_kr", "hyundai_kia_connect_api"],
+  "requirements": ["hyundai_kia_connect_api==3.19.1"],
+  "version": "0.0.1"
+}
